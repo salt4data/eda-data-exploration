@@ -4,9 +4,7 @@ COVID-19 DATA EXPLORATION
 ================================================================================
 Data Source: Our World in Data - COVID-19 Dataset
              https://ourworldindata.org/covid-deaths
-             Data Last Updated:November 29, 2025
-
-Tools: SQL Server
+             Downloaded:November 29, 2025
 
 Skills Used: Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, 
              Creating Views, Converting Data Types
@@ -168,5 +166,4 @@ WHERE d.continent IS NOT NULL;
 -- Query the view
 SELECT *
 FROM vw_PercentPopulationVaccinated
-
 ORDER BY country, date;
