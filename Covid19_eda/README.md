@@ -8,11 +8,11 @@ This project examines global COVID-19 data to uncover patterns in infection rate
 
 ## Questions
 
-> What is the case fatality rate by country and over time?
-> Which countries had the highest infection rates relative to population size?
-> How do death counts compare across continents?
-> What are the global trends in cases, deaths, and mortality rates?
-> What percentage of each country's population received at least one vaccine dose, and at what rate?
+- What is the case fatality rate by country and over time?
+- Which countries had the highest infection rates relative to population size?
+- How do death counts compare across continents?
+- What are the global trends in cases, deaths, and mortality rates?
+- What percentage of each country's population received at least one vaccine dose, and at what rate?
 
 ## Data Source
 **Source:** Our World in Data - COVID-19 Dataset
@@ -23,8 +23,8 @@ This project examines global COVID-19 data to uncover patterns in infection rate
 ## Technical Approach
 ## Tools Used
 
-SQL (Microsoft SQL Server): Data extraction, transformation, and statistical analysis
-Tableau: Interactive dashboard development and geographic visualization
+- SQL (Microsoft SQL Server): Data extraction, transformation, and statistical analysis
+- Tableau: Interactive dashboard development and geographic visualization
 
 # SQL Skills Demonstrated
 
