@@ -1,6 +1,6 @@
 # COVID-19 Global Data Exploration & Visualization
 
-**by Keesha Ngombo**
+**by Keesha Ngombo** 👩🏽‍💻
 
 ---
 
