@@ -28,14 +28,14 @@ This project examines global COVID-19 data to uncover patterns in infection rate
 
 # SQL Skills Demonstrated
 
-**Joins:** Merging death and vaccination datasets for comprehensive analysis
-**CTEs (Common Table Expressions)**: Calculating rolling vaccination totals efficiently
-**Temporary Tables:** Storing intermediate results for complex multi-step calculations
-**Window Functions:** Computing rolling sums using PARTITION BY and ORDER BY clauses
-**Aggregate Functions:** Employing SUM(), MAX(), and COUNT() for summary statistics
-**Views:** Creating reusable queries optimized for visualization tools
-**Data Type Conversion:** Using CAST() and CONVERT() for precise calculations
-**Null Handling:** Implementing NULLIF() to prevent division errors
+- **Joins:** Merging death and vaccination datasets for comprehensive analysis
+- **CTEs (Common Table Expressions)**: Calculating rolling vaccination totals efficiently
+- **Temporary Tables:** Storing intermediate results for complex multi-step calculations
+- **Window Functions:** Computing rolling sums using PARTITION BY and ORDER BY clauses
+- **Aggregate Functions:** Employing SUM(), MAX(), and COUNT() for summary statistics
+- **Views:** Creating reusable queries optimized for visualization tools
+- **Data Type Conversion:** Using CAST() and CONVERT() for precise calculations
+- **Null Handling:** Implementing NULLIF() to prevent division errors
 
 ## Analysis Framework
 1. Data Validation
