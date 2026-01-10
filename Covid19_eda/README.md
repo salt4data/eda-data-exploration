@@ -17,17 +17,13 @@ This project examines global COVID-19 data to uncover patterns in infection rate
 - What are the global trends in cases, deaths, and mortality rates?
 - What percentage of each country's population received at least one vaccine dose, and at what rate?
 
-## Data Source
-**Source:** Our World in Data - COVID-19 Dataset
-**URL:** https://ourworldindata.org/covid-deaths
-**Last Updated:** November 29, 2025
-**Coverage:** Multi-year pandemic tracking across global regions
 
 ## Technical Approach
 ## Tools Used
 
 - SQL (Microsoft SQL Server): Data extraction, transformation, and statistical analysis
 - Tableau: Interactive dashboard development and geographic visualization
+- Technical Skills Applied: Advanced SQL querying, window functions, data cleaning and validation, multi-table joins, common table expressions, database view creation, geographic data visualization, time-series forecasting, and interactive dashboard design.
 
 # SQL Skills Demonstrated
 
@@ -106,12 +102,12 @@ This exploratory analysis quantifies the substantial global impact of COVID-19, 
 
 Incorporate socioeconomic indicators (GDP, healthcare expenditure per capita) to examine correlates of mortality
 Integrate booster vaccination data to assess long-term immunization trends
-
-## References
-
-Ritchie, H., et al. (2025). Coronavirus Pandemic (COVID-19). Our World in Data. Retrieved from https://ourworldindata.org/covid-deaths
-
 Add viral variant data to analyze how mutations influenced infection waves
 Develop predictive models for pandemic scenario forecasting
 
-Technical Skills Applied: Advanced SQL querying, window functions, data cleaning and validation, multi-table joins, common table expressions, database view creation, geographic data visualization, time-series forecasting, and interactive dashboard design.
+## Data Source
+**Source:** Our World in Data - COVID-19 Dataset
+**URL:** https://ourworldindata.org/covid-deaths
+**Last Updated:** November 29, 2025
+**Coverage:** Multi-year pandemic tracking across global regions
+
