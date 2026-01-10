@@ -5,7 +5,9 @@
 ---
 
 ## Overview
-This project examines global COVID-19 data to uncover patterns in infection rates, mortality trends, and vaccination distribution across countries and continents. Using SQL for data analysis and Tableau for visualization, the study addresses critical questions about pandemic impact: Which countries experienced the highest infection rates relative to their population? How did mortality rates evolve over time? What was the pace of vaccine distribution globally?
+This project examines global COVID-19 data to uncover patterns in infection rates, mortality trends, and vaccination distribution across countries and continents. Using SQL for data analysis and Tableau for visualization, the study addresses critical questions about pandemic impact: Which countries experienced the highest infection rates relative to their population? How did mortality rates evolve? What was the pace of vaccine distribution globally?
+
+![image alt](https://github.com/salt4data/eda-data-exploration/blob/f9b317b8d8485be150e1ec33d937b20e38ada379/Covid19_eda/Covid-19.png)
 
 ## Questions
 
