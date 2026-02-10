@@ -1,5 +1,7 @@
 # Data Professional Survey Dashboard (Power BI)
 
+![image alt](https://github.com/salt4data/eda-data-exploration/blob/main/data-exploratory-professional-survey/Demographics.png)
+
 This project is a Power BI dashboard built by following and learning from Alex The Analyst’s tutorial:
 
 🔗 https://www.youtube.com/watch?v=pixlHHe_lNQ&t=1237s  
