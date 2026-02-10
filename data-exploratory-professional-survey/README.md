@@ -1,4 +1,4 @@
-# 📊 Data Professional Survey Dashboard (Power BI)
+# Data Professional Survey Dashboard (Power BI)
 
 This project is a Power BI dashboard built by following and learning from Alex The Analyst’s tutorial:
 
