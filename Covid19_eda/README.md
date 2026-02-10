@@ -1,4 +1,4 @@
-# COVID-19 Global Data Exploration & Visualization
+# COVID-19 Global Data Exploration & Visualization (Tableau)
 
 **by Keesha Ngombo** 👩🏽‍💻
 
