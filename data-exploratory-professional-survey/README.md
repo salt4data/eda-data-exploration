@@ -56,7 +56,7 @@ This project focuses on storytelling with data and creating an interactive dashb
 
 ---
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 
 Analyzing 2022 industry survey data provides insight into compensation trends, skill preferences, and overall job satisfaction within the data profession.  
 
